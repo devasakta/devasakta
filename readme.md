@@ -1,4 +1,7 @@
-This is my first repo.
-Author: Devashish Bariko
-Designation: Business Analyst
-Company: Asakta
+#### This is my first repo.
+<br>
+## Author: Devashish Bariko
+<br>
+## Designation: Business Analyst
+<br>
+## Company: Asakta
